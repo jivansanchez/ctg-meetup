@@ -1,0 +1,83 @@
+### First Bet
+Player1-win:10
+Player2-win:11
+Player3-win:12
+Player4-win:13
+Player5-win:14
+Player6-win:15
+Player7-win:16
+Player8-win:17
+Player9-win:18
+Player10-win:19
+### Second Bet
+Player1-loss:5
+Player2-loss:6
+Player3-loss:4
+Player4-loss:3
+Player5-loss:9
+Player6-loss:7
+Player7-loss:9
+Player8-loss:15
+Player9-loss:2
+Player10-loss:1
+### Third Bet
+Player1-withdraw:0
+Player2-win:6
+Player3-loss:4
+Player4-withdraw:0
+Player5-loss:9
+Player6-loss:7
+Player7-withdraw:0
+Player8-loss:15
+Player9-win:2
+Player10-loss:1
+### Fourth Bet
+Player1-back:10
+Player2-win:6
+Player3-loss:4
+Player4-back:20
+Player5-loss:9
+Player6-loss:7
+Player7-back:0
+Player8-withdraw:15
+Player9-withdraw:2
+Player10-loss:1
+### Fourth Bet
+Player1-back:10
+Player2-win:6
+Player3-tie:0
+Player4-back:20
+Player5-loss:9
+Player6-tie:0
+Player7-tie:0
+Player8-withdraw:15
+Player9-tie:2
+Player10-loss:1
+### Fourth Bet
+Player1-leave:10
+Player2-win:6
+Player3-leave:0
+Player4-back:20
+Player5-leave:9
+Player6-tie:0
+Player7-leave:0
+Player8-withdraw:15
+Player9-leave:2
+Player10-loss:1
+### Fourth Bet
+Player11-new:10
+Player12-new:6
+Player13-new:10
+Player14-new:20
+Player15-new:9
+### Fourth Bet
+Player1-partial:10
+Player2-win:6
+Player3-tie:0
+Player4-partial:20
+Player5-loss:9
+Player6-partial:0
+Player7-tie:0
+Player8-partial:15
+Player9-tie:2
+Player10-loss:1
