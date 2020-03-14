@@ -1,0 +1,11 @@
+incomeMinThreshold=50000d
+deductionPercentage=0.4
+deductionCalculationPercentage=0.6
+minThresdholdAfterDeductions=20000d
+declarationPercentage=0.8
+socialAmount=1200
+retefuentePercentage=0.8
+reliefAmount=4000
+additional1=100
+additional2=10
+additional3=12
